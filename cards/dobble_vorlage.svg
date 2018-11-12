@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="295.86612"
+   id="svg3005"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="dobble_vorlage.svg"
+   version="1.1"
+   width="295.86612">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     bordercolor="#666666"
+     borderopacity="1.0"
+     id="base"
+     inkscape:current-layer="svg3005"
+     inkscape:cx="274.63304"
+     inkscape:cy="123.42086"
+     inkscape:document-units="mm"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:window-height="1018"
+     inkscape:window-maximized="1"
+     inkscape:window-width="1920"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:zoom="1.979899"
+     pagecolor="#ffffff"
+     showgrid="false"
+     units="mm"
+     width="83mm" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="vorlage"
+     style="display:none"
+     transform="translate(0,-756.49605)" />
+  <g
+     id="layer3"
+     inkscape:groupmode="layer"
+     inkscape:label="Ebene"
+     style="display:inline"
+     transform="translate(0,-756.49605)">
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.58399999;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3878"
+       sodipodi:cx="161.07143"
+       sodipodi:cy="893.43359"
+       sodipodi:rx="153.92857"
+       sodipodi:ry="153.92857"
+       d="m 315,893.43359 a 153.92857,153.92857 0 1 1 -307.8571472,0 153.92857,153.92857 0 1 1 307.8571472,0 z"
+       transform="matrix(0.95220231,0,0,0.95220231,-5.4391598,54.08033)" />
+  </g>
+  <g
+     id="layer2"
+     inkscape:groupmode="layer"
+     inkscape:label="bilder"
+     style="display:inline"
+     transform="translate(0,-756.49605)">
+    <image
+       sodipodi:absref="C:\Users\flokain\Google Drive\Chuck Bronson\Activity\Dobble\dobble_software\dobble\cards\..\images\cookie.png"
+       xlink:href="..\images\cookie.png"
+       transform="matrix(-0.54230095,0.84018431,-0.84018431,-0.54230095,0,0)"
+       y="-638.18982"
+       x="543.49261"
+       width="64.651703"
+       style="display:inline"
+       id="image3032"
+       height="64.651703"
+       preserveAspectRatio="xMidYMid" />
+    <image
+       sodipodi:absref="C:\Users\flokain\Google Drive\Chuck Bronson\Activity\Dobble\dobble_software\dobble\cards\..\images\dobblecard - Kopie.jpg"
+       xlink:href="..\images\dobblecard - Kopie.jpg"
+       transform="matrix(0.45456971,0.89071117,-0.89071117,0.45456971,0,0)"
+       y="342.10736"
+       x="784.78766"
+       width="64.651703"
+       style="display:inline"
+       id="image3032-1"
+       height="64.651703"
+       preserveAspectRatio="xMidYMid" />
+    <image
+       sodipodi:absref="C:\Users\flokain\Google Drive\Chuck Bronson\Activity\Dobble\dobble_software\dobble\cards\..\images\dobblecard.jpg"
+       xlink:href="..\images\dobblecard.jpg"
+       y="937.37231"
+       x="44.670879"
+       width="60.308018"
+       style="display:inline"
+       id="image3032-1-7"
+       height="60.308018"
+       preserveAspectRatio="xMidYMid" />
+    <image
+       sodipodi:absref="C:\Users\flokain\Google Drive\Chuck Bronson\Activity\Dobble\dobble_software\dobble\cards\..\images\dobblecard3 - Kopie.jpg"
+       xlink:href="..\images\dobblecard3 - Kopie.jpg"
+       transform="matrix(0.75969355,0.65028125,-0.65028125,0.75969355,0,0)"
+       y="516.26068"
+       x="608.42383"
+       width="113.65318"
+       style="display:inline"
+       id="image3032-1-7-4"
+       height="113.65318"
+       preserveAspectRatio="xMidYMid" />
+    <image
+       sodipodi:absref="C:\Users\flokain\Google Drive\Chuck Bronson\Activity\Dobble\dobble_software\dobble\cards\..\images\dobblecard3.jpg"
+       xlink:href="..\images\dobblecard3.jpg"
+       transform="matrix(-0.81994776,0.57243836,-0.57243836,-0.81994776,0,0)"
+       y="-899.0257"
+       x="271.21466"
+       width="77.944557"
+       style="display:inline"
+       id="image3032-0"
+       height="77.944557"
+       preserveAspectRatio="xMidYMid" />
+    <image
+       sodipodi:absref="C:\Users\flokain\Google Drive\Chuck Bronson\Activity\Dobble\dobble_software\dobble\cards\..\images\imgres - Kopie.png"
+       xlink:href="..\images\imgres - Kopie.png"
+       transform="matrix(-0.86857981,0.4955493,-0.4955493,-0.86857981,0,0)"
+       y="-977.13776"
+       x="291.16165"
+       width="102.2914"
+       style="display:inline"
+       id="image3032-0-9"
+       height="102.2914"
+       preserveAspectRatio="xMidYMid" />
+    <image
+       sodipodi:absref="C:\Users\flokain\Google Drive\Chuck Bronson\Activity\Dobble\dobble_software\dobble\cards\..\images\imgres.png"
+       xlink:href="..\images\imgres.png"
+       y="553.58508"
+       x="552.07385"
+       width="51.409359"
+       style="display:inline"
+       id="image3032-0-9-4"
+       height="51.409359"
+       preserveAspectRatio="xMidYMid"
+       transform="matrix(0.7715432,0.63617694,-0.63617694,0.7715432,0,0)" />
+    <image
+       sodipodi:absref="C:\Users\flokain\Google Drive\Chuck Bronson\Activity\Dobble\dobble_software\dobble\cards\..\images\search - Kopie.jpg"
+       xlink:href="..\images\search - Kopie.jpg"
+       transform="matrix(0.64119019,-0.767382,0.767382,0.64119019,0,0)"
+       y="776.64368"
+       x="-600.59613"
+       width="49.132114"
+       inkscape:label="#Symbol_3"
+       id="Symbol_3"
+       height="49.132114"
+       preserveAspectRatio="xMidYMid">
+      <title
+         id="title3190">Symbol_3</title>
+    </image>
+  </g>
+</svg>
